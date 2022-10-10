@@ -8,7 +8,7 @@ Vamos analisar as séries temporais sobre a contaminação do vírus COVID-19 pe
 
 Projeto feito para entrega de desafio de código no bootcamp Geração Tech Unimed_BH
 
-Biblitecas utilizadas:
+Algumas das Biblitecas utilizadas:
 - Pandas - ferramentas para análise e manipulação de dados.
 
 - ARIMA- Um modelo ARIMA significa Média Móvel integrada AutoRegressiva, usada para série temporais. Tenta modelar o futuro com base no passado.
