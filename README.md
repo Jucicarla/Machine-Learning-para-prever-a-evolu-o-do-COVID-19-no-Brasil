@@ -4,5 +4,5 @@ Este projeto consiste em analise exploratória para prever a evolução da covid
 
 Projeto feito para entrega de desafio de código no bootcamp Geração Tech Unimed_BH
 
-# projeto_eda_covid
+# analise_covid19_Python
 Projeto Digital Innovation One em parceria com o Prof. Dr. Neylson Crepalde
